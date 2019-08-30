@@ -4,6 +4,55 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
+    },
+    {
+      "name": "focus",
+      "year": "2019",
+      "brand": "ford",
+      "color": "black",
+      "id": 2
+    },
+    {
+      "name": "focus",
+      "year": "2019",
+      "brand": "ford",
+      "color": "black",
+      "id": 3
+    },
+    {
+      "name": "focus",
+      "year": "2019",
+      "brand": "ford",
+      "color": "black",
+      "id": 4
+    },
+    {
+      "name": "focus",
+      "year": "2019",
+      "brand": "ford",
+      "color": "black",
+      "id": 5
+    },
+    {
+      "name": "focus",
+      "year": "2019",
+      "brand": "ford",
+      "color": "black",
+      "id": 6
+    },
+    {
+      "name": "focus",
+      "year": "2019",
+      "brand": "ford",
+      "color": "black",
+      "id": 7
+    },
+    {
+      "name": "focus",
+      "year": "2019",
+      "brand": "ford",
+      "color": "black",
+      "id": 8
     }
   ],
   "comments": [
